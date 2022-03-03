@@ -1,5 +1,7 @@
 # Time Series Regression using .R
 
+Used tslm function to fit a multiple regression model with time series data while checking residuals for auto-correlation, trend and seasonality
+
 R libraries: fpp3, 
 using regression as a modeling technique
 
